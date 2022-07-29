@@ -18,7 +18,7 @@ There is a wide range of commands, here are a few of them:
 ### /joke
 <img src="{{site.baseurl | prepend: site.url}}IMG_9168.gif" alt="/joke" />
 
-### /apod
+### /apodasdfsdfsdfa
 <img src="{{site.baseurl | prepend: site.url}}IMG_9165.gif" alt="/apod" />
 
 
