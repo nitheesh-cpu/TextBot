@@ -24,6 +24,9 @@ There is a wide range of commands, here are a few of them:
 ### /news
 <img src="{{site.baseurl | prepend: site.url}}IMG_9188.GIF" alt="/apod" />
 
+### /birthdays
+<img src="{{site.baseurl | prepend: site.url}}IMG_9192.GIF" alt="/birthdays" />
+
 ## Instructions
 
 
