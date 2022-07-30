@@ -7,20 +7,22 @@ Python TextBot is a collection of scripts I wrote to simplify aspects of my life
 There is a wide range of commands, here are a few of them:
 
 ### /help
-<img src="{{site.baseurl | prepend: site.url}}IMG_9158.GIF" alt="/help" />
+<img src="{{site.baseurl | prepend: site.url}}IMG_9190.GIF" alt="/help" />
 
 ### /quote
-<img src="{{site.baseurl | prepend: site.url}}IMG_9170.GIF" alt="/quote" />
+<img src="{{site.baseurl | prepend: site.url}}IMG_9185.GIF" alt="/quote" />
 
-### /birthdays
-<img src="{{site.baseurl | prepend: site.url}}IMG_9174.GIF" alt="/birthdays" />
+### /meme
+<img src="{{site.baseurl | prepend: site.url}}IMG_9187.GIF" alt="/birthdays" />
 
 ### /joke
-<img src="{{site.baseurl | prepend: site.url}}IMG_9168.GIF" alt="/joke" />
+<img src="{{site.baseurl | prepend: site.url}}IMG_9186.GIF" alt="/joke" />
 
 ### /apod
-<img src="{{site.baseurl | prepend: site.url}}IMG_9165.GIF" alt="/apod" />
+<img src="{{site.baseurl | prepend: site.url}}IMG_9189.GIF" alt="/apod" />
 
+### /news
+<img src="{{site.baseurl | prepend: site.url}}IMG_9188.GIF" alt="/apod" />
 
 ## Instructions
 
