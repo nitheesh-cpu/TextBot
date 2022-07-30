@@ -1,6 +1,6 @@
 # About this Project
 
-Python TextBot is a textbot that uses a collection of scripts I wrote to simplify certain aspects of my life such as remembering birthdays and homework assignments. I am able to send daily reminders on upcoming birthdays and homework submission and I can also use a variety of slash commands to access a variety of other information such as the news, weather, or simple a random meme. 
+Python TextBot is a textbot that uses a collection of scripts I wrote to simplify certain aspects of my life such as remembering birthdays and homework assignments. I am able to send daily reminders on upcoming birthdays and homework assignments and I can also utilize slash commands to access a variety of other information such as the news, weather, or simply a random meme. 
 
 I am utilizing the [PyTextNow package](https://pypi.org/project/PyTextNow/) in order to communicate through a phone number using text messages which are then proccessed by the Raspberry Pi to output the desired information. 
 
