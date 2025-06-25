@@ -1,4 +1,34 @@
-url: 'https://nitheesh-cpu.github.io/'
-baseurl: 'TextBot/'
+title: "Nitheesh Kodarapu"
+description: "TextBot - SMS Automation System"
+url: "https://nitheesh-cpu.github.io/"
+baseurl: "/TextBot/"
 
-theme: jekyll-theme-midnight
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+# Navigation - Links back to main portfolio site
+navigation:
+  - name: "Home"
+    link: "https://nitheesh-cpu.github.io/"
+  - name: "Projects"
+    link: "https://nitheesh-cpu.github.io/projects/"
+  - name: "Contact"
+    link: "https://nitheesh-cpu.github.io/contact/"
+
+# Social links
+social:
+  github: "https://github.com/nitheesh-cpu"
+  linkedin: "https://www.linkedin.com/in/nitheesh-kodarapu-7529b1272"
+  instagram: "https://www.instagram.com/nitheeesh_/"
+
+# Exclude from processing
+exclude:
+  - "*.py"
+  - "__pycache__/"
+  - "build.css"
+  - "tailwind4.html"
+# Remove theme since we're using custom layouts
+# theme: jekyll-theme-midnight
