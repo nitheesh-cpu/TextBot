@@ -14,9 +14,11 @@ navigation:
   - name: "Home"
     link: "https://nitheesh-cpu.github.io/"
   - name: "Projects"
-    link: "https://nitheesh-cpu.github.io/projects/"
+    link: "https://nitheesh-cpu.github.io/projects.html"
+  - name: "Resume"
+    link: "https://nitheesh-cpu.github.io/resume.html"
   - name: "Contact"
-    link: "https://nitheesh-cpu.github.io/contact/"
+    link: "https://nitheesh-cpu.github.io/contact.html"
 
 # Social links
 social:
